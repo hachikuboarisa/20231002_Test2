@@ -29,6 +29,17 @@ namespace _20231002_Test2 {
 		{
 			label1.BackColor = Color.Transparent;
 		}
+
+		private void checkBox1_CheckedChanged(object sender, EventArgs e)
+		{
+			if (checkBox1.Checked)
+			{
+				label1.BackColor = Color.LightSkyBlue;
+			}
+			else {
+				label1.BackColor = Color.Transparent;
+			}
+		}
 	}
 
 }
