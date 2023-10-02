@@ -16,6 +16,7 @@ namespace _20231002_Test2 {
 
 		private void button1_Click(object sender, EventArgs e) {
 			label1.Text = "こんにちは";
+			label1.Text = "プルリク";
 		}
 	}
 }
