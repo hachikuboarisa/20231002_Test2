@@ -17,7 +17,7 @@ namespace _20231002_Test2 {
 			
 
 		private void button1_Click(object sender, EventArgs e) {
-			label1.Text = "ブランチ４だよ";
+			label1.Text = "ブランチ４だよ00";
 		}
 
 		private void label1_MouseEnter(object sender, EventArgs e)
